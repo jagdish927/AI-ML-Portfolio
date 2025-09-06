@@ -24,7 +24,7 @@ This repository serves as the **central hub** for all my data projects, showcasi
 
 ### 🔹 Data Analytics & BI
 
-4. [UPI Transaction Dashboard (Power BI)](https://github.com/jagdish927/UPI-PowerBI-Dashboard)
+4. [UPI Transaction Dashboard (Power BI)]([https://github.com/jagdish927/UPI-PowerBI-Dashboard](https://github.com/jagdish927/Power-Bi/blob/main/UPI%20Transaction%20Dashboard.pbit))
     - Transformed 500K+ transaction records into insights across apps (PhonePe, GPay, Paytm).  
    - Tools: **Excel, Power BI, DAX, Data Cleaning**.  
 
