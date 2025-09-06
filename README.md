@@ -20,28 +20,36 @@ This repository serves as the **central hub** for all my data projects, showcasi
    - Predicted flight fares based on **Airline, Source, Destination, Stops, and Date features**.  
    - Techniques: Feature Engineering, ANN Regression, Evaluation Metrics.  
 
+4. [Machine Learning Projects Collection](https://github.com/jagdish927/Machine-learning)  
+   - A collection of multiple ML projects:  
+     - **Regression Models** (House Prices, Salary Prediction, etc.)  
+     - **Classification Models** (Iris, Titanic, Customer Churn)  
+     - **Clustering Models** (K-Means, Hierarchical Clustering)  
+   - Tools: Scikit-learn, Pandas, Matplotlib, Seaborn  
+
 ---
 
 ### 🔹 Data Analytics & BI
-
-4. [UPI Transaction Dashboard (Power BI)]([https://github.com/jagdish927/UPI-PowerBI-Dashboard](https://github.com/jagdish927/Power-Bi/blob/main/UPI%20Transaction%20Dashboard.pbit))
-    - Transformed 500K+ transaction records into insights across apps (PhonePe, GPay, Paytm).  
-   - Tools: **Excel, Power BI, DAX, Data Cleaning**.  
-
-4. [Zomato Restaurant Dashboard (Power BI)](https://github.com/jagdish927/Zomato-PowerBI-Dashboard)  
+5. [Zomato Restaurant Dashboard (Power BI)](https://github.com/jagdish927/Zomato-PowerBI-Dashboard)  
    - Interactive dashboard analyzing restaurant ratings, cuisines, and price distributions.  
    - Tools: **Excel, Power BI, DAX, Data Cleaning**.  
 
-5. [SQL Data Analysis Project](https://github.com/jagdish927/sql)  
-   - Performed complex SQL queries for data exploration and insights.  
-   - Focus: Joins, Window Functions, Subqueries, Aggregations.  
+6. [UPI Transaction Dashboard (Power BI)](https://github.com/jagdish927/UPI-Transaction-Dashboard)  
+   - Designed a **Power BI dashboard** to visualize **digital payments and UPI transaction trends**.  
+   - Insights into transaction growth, volume, banks, and customer behavior.  
+   - Tools: **Power BI, DAX, Data Transformation**.  
 
 ---
 
-### 🔹 Machine Learning Repository
-6. [Machine Learning Projects](https://github.com/jagdish927/Machine-learning)  
-   - A collection of multiple ML projects including regression, classification, and clustering.  
-   - Techniques: Scikit-learn, Pandas, Matplotlib, Seaborn.  
+### 🔹 SQL Projects
+7. [SQL Data Analysis Repository](https://github.com/jagdish927/sql)  
+   - A collection of SQL projects covering **data cleaning, analysis, and reporting**.  
+   - Key projects include:  
+     - **Sales Analysis** (Monthly revenue, top products, regional performance)  
+     - **E-commerce Orders Analysis** (Customer segmentation, purchase behavior)  
+     - **Employee & HR Database Analysis** (Attrition trends, salary distribution)  
+     - **Bank Transactions Analysis** (Fraud detection patterns, customer spending)  
+   - Focus Areas: Joins, Subqueries, Window Functions, Aggregations, CTEs  
 
 ---
 
@@ -59,5 +67,4 @@ This repository serves as the **central hub** for all my data projects, showcasi
 - **GitHub**: [github.com/jagdish927](https://github.com/jagdish927)  
 
 ---
-⭐ *This portfolio highlights my journey in AI, ML, and Data Science.*  
-
+⭐ *This portfolio highlights my journey in AI, ML, SQL, and Data Science.*  
